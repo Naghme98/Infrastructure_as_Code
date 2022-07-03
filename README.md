@@ -78,12 +78,8 @@ with web server, database...
 ### Implementation:
 
 For this part I wrote a semi-Restful web application with database that user can register and check if he is registered or not. 
-You can see the code in my repository: 
-> https://github.com/Naghme98/Infrastructure_as_Code.git
 
 if you run the app using "ip:5000/" you can see the pages.
-Cause I am not sure if my app is restful or not, I'll be happy to hear your opinion about it. That would help me to improve myself :))
-
 
 ----------
 
@@ -92,7 +88,7 @@ Cause I am not sure if my app is restful or not, I'll be happy to hear your opin
 1. Build Docker image for your application (make Dockerfile).
 Look for the best Docker practices, try to follow them and put into report.
 
-**Bonus**: use docker-compose in the case of microservices.
+*Bonus*: use docker-compose in the case of microservices.
 ------------
 
 
