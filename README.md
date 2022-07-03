@@ -86,9 +86,8 @@ if you run the app using "ip:5000/" you can see the pages.
 ## Task 3: Dockerize your application
 
 1. Build Docker image for your application (make Dockerfile).
-Look for the best Docker practices, try to follow them and put into report.
-
-*Bonus*: use docker-compose in the case of microservices.
+Look for the best Docker practices, try to follow them and put into report. 
+Bonus: use docker-compose in the case of microservices.
 ------------
 
 
